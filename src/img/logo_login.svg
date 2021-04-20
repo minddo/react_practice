@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="400" height="50" viewBox="0 0 400 50">
+  <defs>
+    <clipPath id="clip-logo_login">
+      <rect width="400" height="50"/>
+    </clipPath>
+  </defs>
+  <g id="logo_login" clip-path="url(#clip-logo_login)">
+    <rect width="400" height="50" fill="#fff"/>
+    <text id="Tmax_Reservation" data-name="Tmax Reservation" transform="translate(0 2)" fill="#0924ac" font-size="40" font-family="MicrosoftYaHei, Microsoft YaHei"><tspan x="30.674" y="42">Tmax</tspan><tspan y="42" xml:space="preserve" fill="#000"> Reservation</tspan></text>
+    <rect id="사각형_1" data-name="사각형 1" width="8" height="8" transform="translate(29 7)" fill="red"/>
+  </g>
+</svg>
